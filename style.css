@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-abstract-background-black-background-1920x1080-8710.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
+#webcam_view{
+    float: left;
+    margin: 150px;
+    margin-top: -100px;
+}
+#image_view{
+    float: right;
+    margin: 150px;
+    margin-top: -100px;
+}
+#webcam_view{
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+#image_view{
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+#mid{
+    background-color: black;
+    border-radius: 10px;
+    width: max-content;
+    text-align: center;
+    padding: 5px;
+}
+button{
+    background-color: black;
+    border-radius: 20%;
+    height: 35px;
+    width: 70px;
+    color: aliceblue;
+}
